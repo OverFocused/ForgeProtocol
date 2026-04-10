@@ -45,7 +45,7 @@ This introduces the necessary randomness to achieve "NoFap highs":
 ---
 
 ## 🎮 The Gamification Engine (Points & Mana)
-To hijack your brain's reward system, the VCT turns your biology into an RPG. You earn dopamine from *leveling up* rather than *relapsing*.
+To hijack your brain's reward system, the Forge Protocol turns your biology into an RPG. You earn dopamine from *leveling up* rather than *relapsing*.
 
 *   🌟 **Vitality XP (Global Score):** You earn a base of 10 XP for every day you survive. If you successfully reach your target, you earn a massive Completion Bonus `(Level × 25)`. This heavily rewards holding your cadence at higher levels.
 *   🔵 **Peak Mana Bar (Momentum):** A dynamic 0% to 100% progress bar reflecting your *current state*. It is a weighted average of your Baseline Level (up to 50%), your current cycle's success (30%), and your previous cycle's success (20%). If you fail, the bar drains. String successes together at Level 5 to achieve 100% Peak State.
