@@ -56,7 +56,7 @@ In the top left corner, enter your ideal minimum and maximum days (e.g., 10 and 
 
 ### 3. "Riding the Wave" (Crucial Rule)
 **Targets are a FLOOR, not a ceiling.** You should *never* force a release just because the spreadsheet tells you to. 
-If your Target Date arrives and you feel like a god—high energy, sharp focus—**Ride the Wave**. Do not fap. Let the days keep counting up until you naturally feel the need to reset. The spreadsheet will automatically calculate your extra days, score it a Success, grant you extra XP, and level you up.
+If your Target Date arrives and you feel like a sage—high energy, sharp focus—**Ride the Wave**. Do not fap. Let the days keep counting up until you naturally feel the need to reset. The spreadsheet will automatically calculate your extra days, score it a Success, grant you extra XP, and level you up.
 
 ### 4. Handling Early Relapses
 If your target is 10 days and you relapse on Day 4, simply enter the date. 
